@@ -61,7 +61,7 @@
 
 .seller-line::before{
     content: '';
-    height: 3px;
+    height: 2px;
     background-color: orange;
     display: block;
     margin-top: 5px;
