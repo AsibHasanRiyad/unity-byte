@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "offer": 16,
+    "productName": "Iphone 15 pro",
+    "price": 799.99,
+    "description": "Powerful laptop with high-performance specifications. Ideal for demanding tasks and multitasking. Enjoy a seamless computing experience with the Dell XPS 13.",
+    "image": "https://i.ibb.co/6XxY8cq/i-Phone-14-Pro-Silver-3393.jpg"
+  },
+  {
+    "id": 2,
+    "productName": "Xiaomi fit 2",
+    "price": 499.99,
+    "description": "Feature-packed mobile device for everyday use. Capture stunning photos and videos with the advanced camera system. Stay connected and entertained with the iPhone 12.",
+    "image": "https://i.ibb.co/FnJ5s9x/2537-44884.jpg"
+  },
+  {
+    "id": 3,
+    "productName": "MacBook Air",
+    "price": 899.99,
+    "description": "Slim and lightweight laptop with a stunning display. Perfect for professionals on the go. Experience exceptional performance with the MacBook Air.",
+    "image": "https://i.ibb.co/1XzhVY5/2543-64161.jpg"
+  },
+  {
+    "id": 4,
+    "offer": 30,
+    "productName": "Samsung Galaxy s21",
+    "price": 349.99,
+    "description": "Affordable mobile phone with a decent camera. The Samsung Galaxy A51 offers a sleek design and reliable performance. Stay connected without breaking the bank.",
+    "image": "https://i.ibb.co/Rys52KR/2101-60481.jpg"
+  },
+  {
+    "id": 5,
+    "offer": 4,
+    "productName": "Huawei p30",
+    "price": 749.99,
+    "description": "Versatile laptop for work and entertainment. Transform your computing experience with the flexible HP Spectre x360. Unleash creativity and productivity with this powerful device.",
+    "image": " https://i.ibb.co/N7BpL4V/4536-91473.jpg"
+  },
+  {
+    "id": 6,
+    "productName": "Google Pixel Watch",
+    "price": 449.99,
+    "description": "Sleek and modern mobile device for on-the-go use. The Google Pixel 5 combines style with cutting-edge technology. Capture life's moments with precision and clarity.",
+    "image": "https://i.ibb.co/t8nRd9g/Pixel-Watch-2-Champagne-Gold-2809.jpg"
+  },
+  {
+    "id": 7,
+    "offer": 15,
+    "productName": "Oneplus Open",
+    "price": 999.99,
+    "description": "Premium laptop with cutting-edge features and performance. Elevate your work experience with the Lenovo ThinkPad X1 Carbon. Exceptional build quality and powerful specifications for professionals.",
+    "image": "https://i.ibb.co/X7rSsDk/One-Plus-Open.webp"
+  },
+  {
+    "id": 8,
+    "offer": 30,
+    "productName": "Motorola Moto G Power",
+    "price": 299.99,
+    "description": "Basic mobile phone with essential features. The Motorola Moto G Power delivers reliable performance and a long-lasting battery. Stay connected without compromise.",
+    "image": "https://i.ibb.co/8XFLTLd/Asus-ROG-Phone-6-Batman-Edition-1.jpg"
+  },
+  {
+    "id": 9,
+    "productName": "ASUS ROG Zephyrus G14",
+    "price": 849.99,
+    "description": "High-end laptop with a focus on productivity and gaming. The ASUS ROG Zephyrus G14 combines sleek design with powerful gaming capabilities. Dominate your gaming sessions with this premium laptop.",
+    "image": "https://i.ibb.co/wQTX881/Asus-ROG-Phone-7-Ultimate.jpg"
+  },
+  {
+    "id": 10,
+    "offer": 44,
+    "productName": "OnePlus 8T",
+    "price": 399.99,
+    "description": "Budget-friendly mobile device with a modern design. The OnePlus 8T offers flagship-like features at an affordable price. Experience premium performance without breaking the bank.",
+    "image": "https://i.ibb.co/cJQJ3kd/One-Plus-11-R-black.webp"
+  },
+  {
+    "id": 11,
+    "offer": 14,
+    "productName": "Samsung Flip",
+    "price": 779.99,
+    "description": "Portable laptop with long battery life and fast processing. The Microsoft Surface Laptop 4 is designed for portability and performance. Stay productive on the go with this sleek and powerful device.",
+    "image": "https://i.ibb.co/DpWJ9fJ/Samsung-Galaxy-Z-Flip5.jpg"
+  }
+]
